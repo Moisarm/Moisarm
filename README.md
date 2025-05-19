@@ -22,7 +22,7 @@
 ---
 
 - 👨‍💻 I'm a passionate backend developer constantly exploring new technologies.
-- 💬 Ask me about Node.js, Express, TypeScript, and backend architectures.
+- 💬 Ask me about Node.js, Express, JavaScript, and backend architectures.
 - 🌱 Currently deepening my knowledge of TypeScript and AWS Cloud technologies.
 - 🤝 I’m open to collaborate on meaningful and challenging backend projects.
 
